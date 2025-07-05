@@ -1,0 +1,11 @@
+file_format: "1"
+id: prince42
+name: Prince42
+type: shield
+url: https://github.com/TheEternalComrade/The-Prince42
+requires: [pro-micro]
+features: 
+  - keys
+siblings:
+  - prince42_left
+  - prince42_right
