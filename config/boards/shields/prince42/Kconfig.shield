@@ -1,5 +1,5 @@
 config SHIELD_PRINCE42_LEFT
-    def_bool $(shields_list_contains, prince42_left)
+    def_bool $(shields_list_contains,prince42_left)
 
 config SHIELD_PRINCE42_RIGHT
-    def_bool $(shields_list_contains, prince42_right)
+    def_bool $(shields_list_contains,prince42_right)
